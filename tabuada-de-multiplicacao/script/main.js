@@ -1,7 +1,7 @@
 var numero;
 
 do {
-  numero = parseFloat(prompt("Digite um número entre 0 e 10: "));
+  numero = parseInt(prompt("Digite um número entre 0 e 10: "));
 
   if (numero <= 10) {
     console.log("A tabuada no número " + numero + " é:");
@@ -10,7 +10,7 @@ do {
       console.log("Observação:");
       console.log("Só é permitido um número entre 0 e 10. Tente novamente!")
 
-      numero = parseFloat(prompt("Digite um número entre 0 e 10: "));
+      numero = parseInt(prompt("Digite um número entre 0 e 10: "));
 
       numero = numero + 0;
     }
