@@ -38,3 +38,27 @@ Desenvolver um algoritmo que imprima a tabuada de multiplicação de um número 
 Desenvolver um algoritmo que imprima a tabuada de divisão de um número entre 0 e 10.
 
 **Solução:** [tabuada-de-divisao](https://github.com/JesseLopesTI/LogicChallenges/blob/master/tabuada-de-divisao/script/main.js)
+
+**#6 Tabuada de soma completa**
+
+Desenvolver um algoritmo que imprima a tabuada de soma completa dos números de 0 a 10.
+
+**Solução:** [tabuada-de-soma-completa](https://github.com/JesseLopesTI/LogicChallenges/blob/master/tabuada-de-soma-completa/script/main.js)
+
+**#7 Tabuada de subtração completa**
+
+Desenvolver um algoritmo que imprima a tabuada de subtração completa dos números de 0 a 10.
+
+**Solução:** [tabuada-de-subtracao-completa](https://github.com/JesseLopesTI/LogicChallenges/blob/master/tabuada-de-subtracao-completa/script/main.js)
+
+**#8 Tabuada de multiplicação completa**
+
+Desenvolver um algoritmo que imprima a tabuada de multiplicação completa dos números de 0 a 10.
+
+**Solução:** [tabuada-de-multiplicacao-completa](https://github.com/JesseLopesTI/LogicChallenges/blob/master/tabuada-de-multiplicacao-completa/script/main.js)
+
+**#9 Tabuada de divisão completa**
+
+Desenvolver um algoritmo que imprima a tabuada de divisão completa dos números de 1 a 10.
+
+**Solução:** [tabuada-de-divisao-completa](https://github.com/JesseLopesTI/LogicChallenges/blob/master/tabuada-de-divisao-completa/script/main.js)
