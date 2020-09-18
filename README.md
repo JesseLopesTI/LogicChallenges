@@ -62,3 +62,9 @@ Desenvolver um algoritmo que imprima a tabuada de multiplicação completa dos n
 Desenvolver um algoritmo que imprima a tabuada de divisão completa dos números de 1 a 10.
 
 **Solução:** [tabuada-de-divisao-completa](https://github.com/JesseLopesTI/LogicChallenges/blob/master/tabuada-de-divisao-completa/script/main.js)
+
+**#10 Tabuada completa**
+
+Desenvolver um algoritmo que imprima a tabuada completa de um número entre 0 e 10.
+
+**Solução:** [tabuada-completa](https://github.com/JesseLopesTI/LogicChallenges/blob/master/tabuada-completa/script/main.js)
