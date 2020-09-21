@@ -73,4 +73,4 @@ Desenvolver um algoritmo que imprima a tabuada completa de um número entre 0 e 
 
 Desenvolver um algoritmo que realize cálculos básicos de uma calculadora.
 
-**Solução:** [CalculadoraBasica](https://github.com/JesseLopesTI/LogicChallenges/blob/master/calculadora-basica/script/main.js)
+**Solução:** [calculadora-basica](https://github.com/JesseLopesTI/LogicChallenges/blob/master/calculadora-basica/script/main.js)
