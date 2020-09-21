@@ -68,3 +68,9 @@ Desenvolver um algoritmo que imprima a tabuada de divisão completa dos números
 Desenvolver um algoritmo que imprima a tabuada completa de um número entre 0 e 10.
 
 **Solução:** [tabuada-completa](https://github.com/JesseLopesTI/LogicChallenges/blob/master/tabuada-completa/script/main.js)
+
+**#11 Calculadora básica**
+
+Desenvolver um algoritmo que realize cálculos básicos de uma calculadora.
+
+**Solução:** [CalculadoraBasica](https://github.com/JesseLopesTI/LogicChallenges/blob/master/calculadora-basica/script/main.js)
