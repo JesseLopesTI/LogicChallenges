@@ -77,6 +77,12 @@ Desenvolver um algoritmo que realize cálculos básicos de uma calculadora.
 
 **#12 Contribuição mensal do INSS**
 
-Desenvolver um algoritmo que informe a alíquota de contribuição mensal para o INSS, com base na categoria do contribuinte.
+Desenvolver um algoritmo que informe a alíquota de contribuição mensal para o INSS (Instituto Nacional do Seguro Social), com base na categoria do contribuinte.
 
 **Solução:** [contribuicao-mensal-do-inss](https://github.com/JesseLopesTI/LogicChallenges/blob/master/contribuicao-mensal-do-inss/script/main.js)
+
+**#13 Contribuição mensal do IRPF**
+
+Desenvolver um algoritmo que informe a alíquota de contribuição mensal para do IRPF (Imposto de Renda de Pessoa Física), com base no valor bruto mensal do salário de um contribuinte.
+
+**Solução:** [contribuicao-mensal-do-irpf](https://github.com/JesseLopesTI/LogicChallenges/blob/master/contribuicao-mensal-do-irpf/script/main.js)
