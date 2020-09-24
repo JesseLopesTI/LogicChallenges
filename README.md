@@ -74,3 +74,9 @@ Desenvolver um algoritmo que imprima a tabuada completa de um número entre 0 e 
 Desenvolver um algoritmo que realize cálculos básicos de uma calculadora.
 
 **Solução:** [calculadora-basica](https://github.com/JesseLopesTI/LogicChallenges/blob/master/calculadora-basica/script/main.js)
+
+**#12 Contribuição mensal do INSS**
+
+Desenvolver um algoritmo que informe a alíquota de contribuição mensal para o INSS, com base na categoria do contribuinte.
+
+**Solução:** [contribuicao-mensal-do-inss](https://github.com/JesseLopesTI/LogicChallenges/blob/master/contribuicao-mensal-do-inss/script/main.js)
