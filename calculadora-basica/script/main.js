@@ -22,17 +22,17 @@ switch(escolha) {
   case 1:
     soma = valor1 + valor2;
 
-    document.write("O resultado é: " + soma);
+    document.write("O resultado é: " + Math.round(soma));
     break;
   case 2:
     subtracao = valor1 - valor2;
 
-    document.write("O resultado é: " + subtracao + ". (Ignorar sinal de negativo).");
+    document.write("O resultado é: " + Math.round(subtracao) + ". (Ignorar sinal de negativo).");
     break;
   case 3:
     multiplicacao = valor1 * valor2;
 
-    document.write("O resultado é: " + multiplicacao);
+    document.write("O resultado é: " + Math.round(multiplicacao));
     break;
   default:
     divisao = valor1 / valor2;
